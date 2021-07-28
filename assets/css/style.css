@@ -326,15 +326,15 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero h1 {
   margin: 0 0 10px 0;
-  font-size: 64px;
-  font-family: "Satisfy", serif;
+  font-size: 128px;
+  font-family: "Raleway", sans-serif;
   color: #fff;
 }
 
 #hero h2 {
   color: #eee;
   margin-bottom: 50px;
-  font-size: 13px;
+  font-size: 24px;
   font-weight: 500;
   letter-spacing: 1px;
   text-transform: uppercase;
